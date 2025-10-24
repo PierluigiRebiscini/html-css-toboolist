@@ -3,3 +3,22 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.padding-header{
+    height: 50x;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+}
+
+.img-logo{
+    vertical-align: middle;
+}
+.font-boolist{
+    vertical-align: middle;
+    font-size: 300%;
+    font-weight: 300;
+    font-weight: bold;
+
+}
