@@ -3,7 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+.bg-header{
+    background-color: white;
+}
 .padding-header{
     height: 50x;
     padding-top: 10px;
@@ -22,3 +24,61 @@
     font-weight: bold;
 
 }
+.bg-body{
+    background-color: aqua;
+    
+}
+
+.bg-main{
+    background-color: white;
+    
+}
+
+.margin-padding-main{
+    display: block;
+    margin: 10px 0px 0px 50px;
+    padding: 100px;
+    height: 1000px;
+}
+.task-bg{
+
+    box-sizing: content-box;
+    border: 2px solid;
+    border-radius: 10px;
+    background-color: #46aff2;
+    border-color: #46aff2;
+  
+    
+}
+    .font-task{
+    display: inline-block;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: arial;
+    text-align: center;
+    padding: 10px 13px 10px 13px;
+    color: white;
+
+    }
+    .font-section{
+    display: inline-block;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: arial;
+    text-align: center;
+    padding: 10px 13px 10px 13px;
+    color: rgb(124, 123, 123);
+
+    }
+    .section-bg{
+
+    
+    border: 2px solid;
+    border-color: rgb(128, 128, 128);
+    border-radius: 10px;
+    background-color: white;
+  }
+   hr {
+    color: rgb(87, 87, 87);
+    margin-top:20px;
+   }
