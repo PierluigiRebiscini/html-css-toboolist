@@ -82,3 +82,12 @@
     color: rgb(87, 87, 87);
     margin-top:20px;
    }
+
+   .lista{
+    margin-top: 50px;
+   }
+h2{
+    font-size: 200%;
+    font-family: arial;
+    font-weight: bold;
+}
