@@ -22,10 +22,11 @@
     font-size: 300%;
     font-weight: 300;
     font-weight: bold;
+    font-family: arial;
 
 }
 .bg-body{
-    background-color: aqua;
+    background-color:#f6f8fa;
     
 }
 
@@ -36,9 +37,9 @@
 
 .margin-padding-main{
     display: block;
-    margin: 10px 0px 0px 50px;
+    margin: 80px 200px 0px 200px;
     padding: 100px;
-    height: 1000px;
+    height: auto;
 }
 .task-bg{
 
@@ -86,8 +87,152 @@
    .lista{
     margin-top: 50px;
    }
-h2{
-    font-size: 200%;
+   h3{
+    font-size: 150%;
     font-family: arial;
     font-weight: bold;
+    margin-top: 40px;
+
+ }
+    
+
+.frecciagiu{
+    display: inline-block;
+    padding: 0px 0px 10px 0px;
+    font-size: 20px;
+
+} 
+
+.padding-spanlista{
+    padding-left: 10px;
+    padding-right: 30px;
 }
+
+p{
+    color: gray;
+    
+    font-family: arial;
+    font-weight: bold;
+    margin-bottom: 20px;
+    
+    
+}
+
+
+.checkmark{
+    display: inline-block;
+    height: auto;
+    width: auto;
+    border: 1px solid;
+    color: green;
+    border-color: green;
+    border-radius: 50%;
+    padding: 0px 5px 0px 5px;
+}
+.checkcross{
+    display: inline-block;
+    height: auto;
+    width: auto;
+    border: 1px solid;
+    color: red;
+    border-color: red;
+    border-radius: 50%;
+    padding: 0px 5px 0px 5px;
+}
+
+.bottone-editorial{
+    display: inline-block;
+    height: auto;
+    width: auto;
+     box-sizing: content-box;
+    border: 2px solid;
+    border-radius: 10px;
+    color: white;
+    background-color: #46aff2;
+    border-color: #46aff2;
+    padding: 3px 10px 1px 10px;
+  text-align: center;
+  font-size: 100%;
+ 
+}
+.bottone-q1goals{
+       display: inline-block;
+    height: auto;
+    width: auto;
+     box-sizing: content-box;
+    border: 2px solid;
+    border-radius: 10px;
+    color: white;
+    background-color: #9a73e4;
+    border-color: #9a73e4;
+    padding: 3px 10px 1px 10px;
+  text-align: center;
+  font-size: 100%;
+ 
+}
+.bottone-recruiting{
+       display: inline-block;
+    height: auto;
+    width: auto;
+     box-sizing: content-box;
+    border: 2px solid;
+    border-radius: 10px;
+    color: white;
+    background-color: #65c2a8;
+    border-color: #65c2a8;
+    padding: 3px 10px 1px 10px;
+  text-align: center;
+  font-size: 100%;
+ 
+}
+.bottone-mobile{
+       display: inline-block;
+    height: auto;
+    width: auto;
+     box-sizing: content-box;
+    border: 2px solid;
+    border-radius: 10px;
+    color: white;
+    background-color: #f49f34;
+    border-color:#f49f34;
+    padding: 3px 10px 1px 10px;
+  text-align: center;
+  font-size: 100%;
+ 
+}
+.bottone-website{
+       display: inline-block;
+    height: auto;
+    width: auto;
+     box-sizing: content-box;
+    border: 2px solid;
+    border-radius: 10px;
+    color: white;
+    background-color: #9a73e4;
+    border-color: #9a73e4;
+    padding: 3px 10px 1px 10px;
+  text-align: center;
+  font-size: 100%;
+ 
+}
+.bottone-sales{
+       display: inline-block;
+    height: auto;
+    width: auto;
+     box-sizing: content-box;
+    border: 2px solid;
+    border-radius: 10px;
+    color: white;
+    background-color: #b0cb25;
+    border-color: #b0cb25;
+    padding: 3px 10px 1px 10px;
+  text-align: center;
+  font-size: 100%;
+ 
+}
+
+
+
+
+
+    
